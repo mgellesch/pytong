@@ -1,4 +1,6 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import threading, time, os, sys, imp, unittest
 from optparse import OptionParser
 
