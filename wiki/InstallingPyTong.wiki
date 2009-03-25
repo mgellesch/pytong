@@ -1,4 +1,4 @@
-#summary Installing !PyTong
+#summary Installing PyTong
 #labels Featured
 
 = System Requirements =
