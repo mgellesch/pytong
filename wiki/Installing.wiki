@@ -2,10 +2,9 @@
 
 = System Requirements =
 
- * *Python*
- * *wxPython*
+ * [http://www.python.org Python]
+ * [http://www.wxpython.org wxPython]
    try 'import wx' from the Python interpreter to see if wx is installed. 
-   If it's not, get it at [http://www.wxpython.org]
 
 == Windows ==
 
